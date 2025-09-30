@@ -1,0 +1,106 @@
+contract_id,employee_id,start_date,end_date,pay_rate,job_title,payment_frequency,contract_type,employment_type,contract_status
+ace4deaa-5f69-473e-87a7-0ac46770468a,E0000001,2022-04-04,2022-10-01,41.75,Cleaner,Weekly,Fixed-Term,Full-time,Expired
+61d3ba91-5e07-4fff-8c4a-00480c9a5f77,E0000002,2021-12-25,,20.42,IT Support Specialist,Weekly,Casual,Casual,Active
+17f229b3-09fa-4511-b246-eac25fd41f3a,E0000003,2022-12-10,,39.05,Security Guard,Monthly,Permanent,Part-time,Active
+7ee4d2bf-0fc2-46aa-b161-59bd63e39c9f,E0000004,2023-08-09,,42.77,Software Developer,Weekly,Casual,Casual,Active
+6d8f2524-e3e4-4d32-b109-81ee541d8a5d,E0000005,2023-04-21,,30.92,Security Guard,Fortnightly,Permanent,Full-time,Active
+58f836ad-864f-476e-a413-9d69193ca6f0,E0000006,2021-01-11,,39.88,IT Support Specialist,Weekly,Casual,Casual,Active
+f682d4e3-2ccf-47a9-b9fd-c7abc218cfd6,E0000007,2021-01-14,2022-01-09,28.68,IT Support Specialist,Monthly,Fixed-Term,Part-time,Expired
+84058532-9158-49af-b7d4-b90169bb9340,E0000008,2024-07-16,,27.48,Software Developer,Monthly,Casual,Casual,Active
+3c737628-905b-4a6f-8772-2e6922e65a17,E0000009,2024-09-18,,49.42,Software Developer,Fortnightly,Permanent,Part-time,Active
+7757b931-f49f-4508-8ba5-733d74fa4aae,E0000010,2025-01-12,2025-07-11,33.67,Administrative Assistant,Weekly,Fixed-Term,Full-time,Active
+40303ac5-5e31-4be0-aa9d-53c42fa1eda3,E0000011,2023-03-09,2024-03-03,25.5,IT Support Specialist,Weekly,Fixed-Term,Part-time,Expired
+5b49ad02-e523-4f30-a244-7fdf21de4941,E0000012,2024-04-20,,42.77,Software Developer,Monthly,Casual,Casual,Active
+db7201e1-2a29-41ab-b3bf-db500019ff0a,E0000013,2021-07-07,,33.18,Cleaner,Weekly,Permanent,Part-time,Active
+2f559dac-c01b-431d-9765-f022a6cbb532,E0000014,2023-06-04,,48.45,Security Guard,Monthly,Permanent,Part-time,Active
+a3a54d05-8c97-4b1b-8425-3c6e03261f1d,E0000015,2021-06-26,,33.38,IT Support Specialist,Weekly,Casual,Casual,Active
+f0651d2a-1160-4e4c-a368-4a90f8ee6977,E0000016,2025-01-20,,43.63,Security Guard,Monthly,Casual,Casual,Active
+45a80e04-406b-48c6-ae9d-38a676209e70,E0000017,2022-11-30,2023-11-25,28.27,Cleaner,Weekly,Fixed-Term,Full-time,Expired
+c2f114dd-7278-4007-8af4-6e984a1662cd,E0000018,2021-05-27,,46.94,Security Guard,Monthly,Casual,Casual,Active
+5cb44c94-cba9-468f-ba93-ca7a2074cd4f,E0000019,2021-08-05,,32.44,IT Support Specialist,Fortnightly,Permanent,Full-time,Active
+85187e61-b62d-4926-a8e3-84234311de08,E0000019,2021-02-05,2021-08-04,30.82,IT Support Specialist,Monthly,Permanent,Full-time,Expired
+d99245e3-d5dd-47a7-9c1b-996a91dab5f7,E0000020,2024-12-23,,43.76,IT Support Specialist,Weekly,Permanent,Part-time,Active
+306a8319-5eec-4b3d-8105-af42901fdc24,E0000021,2025-03-03,,41.09,Security Guard,Weekly,Casual,Casual,Active
+9155bb3e-60d9-400e-af9c-f73ae8d88924,E0000022,2024-10-05,2025-01-11,40.98,Security Guard,Fortnightly,Permanent,Part-time,Terminated
+2173a4b6-fe98-479b-94bb-fb9466b7d3bc,E0000023,2022-04-25,,44.36,Nurse,Weekly,Permanent,Full-time,Active
+77e19d65-73c3-480e-bd03-d5b319f1a0d0,E0000024,2022-08-18,,20.27,Cleaner,Weekly,Permanent,Part-time,Active
+b0651bd6-a63e-4724-9657-de156aa3c76c,E0000025,2023-03-05,2025-02-22,47.62,Nurse,Weekly,Fixed-Term,Part-time,Expired
+4687d84c-8f6a-4abb-a72f-d94d13ec2663,E0000026,2021-07-28,2022-07-23,33.36,IT Support Specialist,Fortnightly,Fixed-Term,Part-time,Expired
+8f53e99d-4b5b-421f-b893-e6c2e230795f,E0000027,2023-03-18,,45.53,Security Guard,Fortnightly,Permanent,Part-time,Active
+d0f75337-ea4d-436b-a32c-692cea6d4c8d,E0000028,2022-05-14,,24.87,Software Developer,Weekly,Casual,Casual,Active
+a1b6e238-313c-47c4-aceb-13f250a4c58c,E0000029,2025-03-04,,44.08,Administrative Assistant,Monthly,Permanent,Part-time,Active
+21e9cdc7-bcbd-443f-9b90-0b51a82454b2,E0000030,2021-07-29,,20.08,Administrative Assistant,Monthly,Casual,Casual,Active
+a0c0769a-26e4-467a-a419-aab9238db84c,E0000031,2022-06-03,,21.97,IT Support Specialist,Monthly,Permanent,Full-time,Active
+833680fe-d43f-445c-a0be-a8edede74a32,E0000032,2024-03-13,,33.74,Security Guard,Fortnightly,Casual,Casual,Active
+5345ad7d-4edd-4ac5-85a1-8210a32c69cd,E0000033,2022-01-18,2023-01-13,38.76,Nurse,Weekly,Fixed-Term,Part-time,Expired
+cd6aee17-400b-4f94-9666-a93b79cf2d28,E0000034,2023-06-03,,30.67,Administrative Assistant,Fortnightly,Casual,Casual,Active
+c91525cf-12f2-45e0-b90c-80777a5c8fcc,E0000035,2024-12-13,,35.0,Security Guard,Weekly,Permanent,Full-time,Active
+c8a08232-5353-4b15-8c4f-c3ba17447b5a,E0000035,2024-06-15,2024-12-12,33.25,Security Guard,Monthly,Fixed-Term,Full-time,Expired
+77b83bfc-3ecf-43b4-ad47-d31164a2e4c8,E0000036,2025-01-12,2027-01-02,22.87,Nurse,Weekly,Fixed-Term,Full-time,Active
+7adc72be-b7c8-4813-bc2b-9ae5f533e0c6,E0000037,2022-10-30,,31.73,Cleaner,Weekly,Casual,Casual,Active
+069a0b88-d4b1-471c-b0b2-5c0c33c1280a,E0000038,2023-08-24,,27.96,Administrative Assistant,Fortnightly,Permanent,Part-time,Active
+5b2019d2-0d58-44f6-a216-b21ef439b77f,E0000039,2022-12-22,,34.36,Software Developer,Monthly,Casual,Casual,Active
+9af2badb-7d1e-4ba4-89a4-c7ba761ad73b,E0000040,2024-10-14,,47.67,Security Guard,Monthly,Casual,Casual,Active
+3098775d-e647-4a93-a037-37dbe75c1e05,E0000041,2022-10-26,,35.42,Software Developer,Fortnightly,Permanent,Part-time,Active
+100049d4-5f50-4533-979f-a3436322bae8,E0000042,2022-09-18,,26.47,Cleaner,Weekly,Casual,Casual,Active
+7607aef8-e8ca-4e22-94fa-32f3e0ced17a,E0000043,2023-06-17,2024-03-10,47.85,Cleaner,Weekly,Fixed-Term,Full-time,Terminated
+594f2366-cebb-4e09-8289-859d052cbd07,E0000044,2023-02-12,,21.27,Nurse,Weekly,Casual,Casual,Active
+d833e72f-09dd-4a80-acfb-ebb69a7ac72d,E0000045,2023-12-16,2024-03-11,27.36,Administrative Assistant,Fortnightly,Permanent,Full-time,Terminated
+65c34152-cb77-4ba5-a951-1cfc557acd08,E0000046,2022-03-14,,40.96,Software Developer,Monthly,Permanent,Part-time,Active
+da65f6bd-b277-414c-99e9-5ccbba0008ab,E0000046,2021-09-14,2022-03-13,36.86,Software Developer,Weekly,Fixed-Term,Part-time,Expired
+d25e446c-768a-491c-bfe8-9124b42f6745,E0000047,2021-01-04,2022-01-02,39.8,Security Guard,Weekly,Permanent,Full-time,Terminated
+9450e7fe-6220-4342-9ed4-3db4ac88d238,E0000048,2023-02-18,2024-02-13,40.44,Administrative Assistant,Fortnightly,Fixed-Term,Full-time,Expired
+2da723ac-9fa8-479b-94b0-851293f38fe5,E0000049,2021-10-20,,32.58,Administrative Assistant,Monthly,Permanent,Full-time,Active
+18c11ae9-6bef-4c2a-9d06-775b6b399ea8,E0000050,2024-06-13,2025-06-08,40.38,Nurse,Weekly,Fixed-Term,Part-time,Active
+3748c5bb-cff9-4107-bd54-2ce1bfe4a83c,E0000051,2024-08-01,,28.58,Software Developer,Fortnightly,Permanent,Full-time,Active
+2d36bce3-d7ad-49ec-9824-66aa2e850aea,E0000051,2023-08-06,2024-07-31,27.15,Software Developer,Monthly,Permanent,Full-time,Expired
+1408c58b-9161-4ec1-ba71-06b35dcbaa52,E0000052,2021-04-28,,43.66,Administrative Assistant,Monthly,Casual,Casual,Active
+773e6417-8521-44f8-9b18-2ca3e6089f50,E0000053,2024-03-14,,34.44,Security Guard,Weekly,Casual,Casual,Active
+c04248d1-debd-4b56-84b2-499e6ae0a84c,E0000054,2025-01-11,,40.07,Cleaner,Weekly,Permanent,Full-time,Active
+47fd0e85-45e8-44fb-ba12-b38e5553752f,E0000055,2023-03-16,,27.88,Administrative Assistant,Fortnightly,Permanent,Full-time,Active
+945d1b11-cd74-4ad5-8d83-ec2c8bf92a66,E0000056,2021-08-23,,35.53,IT Support Specialist,Weekly,Permanent,Full-time,Active
+01eb8170-e4a9-49a7-b22e-cc0edd8051a4,E0000057,2021-11-16,2022-05-15,44.18,IT Support Specialist,Weekly,Fixed-Term,Part-time,Expired
+0392bf6a-a8ab-461e-a691-f302bdf8b8ef,E0000058,2021-06-17,2021-12-14,47.65,Cleaner,Weekly,Fixed-Term,Part-time,Expired
+b6c8443c-1754-4493-b007-0aff534ef773,E0000059,2021-08-17,,44.44,Cleaner,Weekly,Permanent,Part-time,Active
+904883e1-ae5a-4831-8ec1-8a2b144fea59,E0000060,2022-02-18,2023-02-13,25.58,Security Guard,Fortnightly,Fixed-Term,Full-time,Expired
+1d3f04f5-1024-4906-bb4f-dd447a8c0c8c,E0000061,2024-04-08,2026-03-29,20.9,Software Developer,Monthly,Fixed-Term,Part-time,Active
+8ecb1ba6-89e2-4089-83c2-ed4e2eae3c7c,E0000062,2024-08-03,2024-11-22,32.33,IT Support Specialist,Weekly,Permanent,Full-time,Terminated
+15473f15-943c-47a1-bb8d-2651a100596f,E0000063,2023-04-17,2024-04-11,26.16,Software Developer,Fortnightly,Fixed-Term,Full-time,Expired
+edcaf9cc-14d6-42db-ab7e-e9a17736acb3,E0000064,2023-12-20,,46.13,Nurse,Weekly,Permanent,Full-time,Active
+a7e567d8-7068-49ea-a264-3226fcc89abf,E0000065,2023-12-27,2024-06-24,37.68,Administrative Assistant,Monthly,Fixed-Term,Part-time,Expired
+05027065-ed13-4147-85f7-7f748ae87b54,E0000066,2022-01-27,2022-07-26,36.26,Cleaner,Weekly,Fixed-Term,Part-time,Expired
+0653e3f8-f949-4914-898f-794e5bb218ec,E0000067,2023-07-11,,42.56,Administrative Assistant,Fortnightly,Casual,Casual,Active
+0a4b0335-41f9-45b7-b234-ae43f6956fc6,E0000068,2021-12-27,,33.5,IT Support Specialist,Weekly,Permanent,Part-time,Active
+0b1b6e09-f3ff-45a5-8a3d-29b690dfc203,E0000069,2021-12-19,2022-12-14,48.42,Software Developer,Fortnightly,Fixed-Term,Part-time,Expired
+79a27113-f1c4-4ac2-b074-c1baf2535d8c,E0000070,2024-10-19,,49.43,Software Developer,Monthly,Casual,Casual,Active
+d5e2b135-bbb9-4280-aef2-9e9da819382c,E0000071,2022-07-10,2024-06-29,23.63,Nurse,Weekly,Fixed-Term,Full-time,Expired
+c8995a17-56ec-46f0-99cd-a90cb31d6e48,E0000072,2022-01-25,,46.98,IT Support Specialist,Monthly,Permanent,Part-time,Active
+2ff33edd-5cea-44ad-b8ed-bc203eb7d375,E0000073,2021-12-22,,27.81,IT Support Specialist,Monthly,Casual,Casual,Active
+629a36c3-4420-45c7-a4c7-d62a392ee4d6,E0000074,2023-05-25,,20.5,Administrative Assistant,Monthly,Casual,Casual,Active
+cc2e58f4-05c7-4392-89db-751c2cdb279e,E0000075,2021-03-09,,27.2,Security Guard,Monthly,Permanent,Part-time,Active
+72c50c82-f63a-482d-9b82-f56eb856cccb,E0000076,2023-07-04,,41.48,Software Developer,Fortnightly,Casual,Casual,Active
+54e00c47-9bd3-42e4-9d59-0fa65e9eeb5a,E0000077,2023-08-11,,31.26,Security Guard,Weekly,Permanent,Full-time,Active
+93c45a96-95f1-44d1-99f1-f5db6283f053,E0000078,2021-08-24,,43.5,Nurse,Weekly,Casual,Casual,Active
+b6f1e75f-06c6-491b-a26d-044ea177c3ce,E0000079,2021-09-28,,28.06,Security Guard,Fortnightly,Permanent,Part-time,Active
+4fe56e7f-c7c8-4fcb-a6a7-b55f31278d65,E0000080,2023-12-10,,32.32,Cleaner,Weekly,Permanent,Full-time,Active
+a0e38995-55bc-4d38-a226-88afbb18b2cc,E0000081,2024-11-06,2026-10-27,48.77,IT Support Specialist,Weekly,Fixed-Term,Full-time,Active
+6a3b8949-20ea-4496-a15c-0c315d9ba054,E0000082,2021-08-27,,25.82,Administrative Assistant,Weekly,Casual,Casual,Active
+d7394e76-d538-4211-9dec-24d20f85e659,E0000083,2024-09-18,2025-09-13,26.91,Nurse,Weekly,Fixed-Term,Full-time,Active
+fd7e2292-f149-4fb6-be52-cdcb23e61e5f,E0000084,2025-02-08,,35.15,Cleaner,Weekly,Casual,Casual,Active
+2d93f2db-871c-49b8-a5ad-1267510bea1d,E0000085,2021-03-19,,28.98,Nurse,Weekly,Casual,Casual,Active
+6ab06325-c0ff-42d8-aab9-574fa687d2ed,E0000086,2022-10-28,2024-10-17,41.01,Administrative Assistant,Weekly,Fixed-Term,Part-time,Expired
+c9d221ae-5578-4b59-9c34-a700a992566e,E0000087,2022-03-27,,26.26,Nurse,Weekly,Casual,Casual,Active
+ed6fd9ec-c8ad-4394-a37a-b62a55f9bdd5,E0000088,2024-11-12,,32.63,Administrative Assistant,Weekly,Permanent,Full-time,Active
+8c78b98e-1cac-4557-bd8c-ff847f117095,E0000089,2023-10-01,2024-09-25,49.87,Cleaner,Weekly,Fixed-Term,Full-time,Expired
+f47d1e12-e37d-4fb2-9442-9baf1087cd08,E0000090,2021-09-10,,46.19,Software Developer,Weekly,Permanent,Full-time,Active
+8364c5a5-90ad-4e2f-8223-cc119258978e,E0000091,2022-01-03,2022-12-29,36.71,IT Support Specialist,Fortnightly,Fixed-Term,Part-time,Expired
+98841b26-641d-4e8e-a790-65107fd3022c,E0000092,2021-11-28,,29.88,Administrative Assistant,Fortnightly,Permanent,Full-time,Active
+ec5cca24-24e3-44ea-bc33-08b5ca57a845,E0000093,2024-11-08,,29.55,IT Support Specialist,Monthly,Permanent,Part-time,Active
+d96e23d3-a706-4e60-b9d1-4787e399fe99,E0000094,2025-03-02,2026-02-25,29.99,IT Support Specialist,Fortnightly,Fixed-Term,Part-time,Active
+d3596d51-8e3d-406c-8585-361b9fea6482,E0000095,2021-01-06,2022-01-01,39.49,Security Guard,Monthly,Fixed-Term,Full-time,Expired
+40508f4b-e7e4-4383-b26a-b5374faa985e,E0000096,2023-12-03,2025-11-22,21.54,Software Developer,Weekly,Fixed-Term,Full-time,Active
+800353e8-30e1-4cee-a145-d19d7a7f0c54,E0000096,2023-06-05,2023-12-02,20.46,Software Developer,Fortnightly,Permanent,Full-time,Expired
+1d8b0b00-1890-41d5-b4ba-44dcfdc29452,E0000097,2022-03-11,,28.91,Software Developer,Monthly,Permanent,Full-time,Active
+5fe71588-ab21-4778-a417-f68e597bf6ff,E0000098,2023-09-23,,29.32,Security Guard,Monthly,Casual,Casual,Active
+55e3a843-2163-4e4e-b4a8-c93c23468131,E0000099,2021-09-20,,46.69,Software Developer,Weekly,Casual,Casual,Active
+927b0260-533b-426b-a1d5-3c40526d7a82,E0000100,2024-05-16,,21.67,Software Developer,Weekly,Casual,Casual,Active

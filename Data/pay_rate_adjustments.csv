@@ -1,0 +1,7 @@
+Rate Type,Description,Rate Calculation
+Overtime Rate (First 2 hrs),First 2 hours worked beyond standard hours.,1.5x hourly rate (150% of base rate)
+Overtime Rate (After 2 hrs),After the first 2 hours of overtime.,2.0x hourly rate (200% of base rate)
+Overtime Rate for Sunday,Overtime worked on Sundays.,2.5x hourly rate (250% of base rate)
+Penalty Rate (Sunday),Regular work shifts on Sundays.,2.0x hourly rate (200% of base rate)
+Night Shift Penalty,Shifts starting after 10 PM and ending before 6 AM.,1.25x hourly rate (125% of base rate)
+Casual Loading Rate,No leave entitlements for casual employees.,+25% (1.25x) on top of hourly base rate

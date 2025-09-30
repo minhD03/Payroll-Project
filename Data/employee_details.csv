@@ -1,0 +1,101 @@
+employee_id,employee_first_name,employee_middle_name,employee_last_name,employee_gender,employee_location,date_of_birth,hire_date,termination_date,employee_status
+E0000001,Paul,Amy,Tapia,Male,North Ruth,1995-02-14,2022-04-04,,Inactive
+E0000002,Brandon,,Lewis,Female,Calhounfurt,1988-09-23,2021-12-25,,Active
+E0000003,Lauren,,Martinez,Female,Zacharyside,1990-01-07,2022-12-10,,Active
+E0000004,Kevin,,Davis,Male,New Michelleport,1982-04-22,2023-08-09,,Active
+E0000005,Debra,Adam,Nunez,Male,South Jessicachester,1974-07-30,2023-04-21,,Active
+E0000006,Andrew,,Lewis,Female,East Steven,1994-01-13,2021-01-11,,Active
+E0000007,Daniel,,Buchanan,Female,East Wendyborough,2000-04-19,2021-01-14,,Inactive
+E0000008,Bruce,John,Serrano,Male,Gravesside,1995-10-22,2024-07-16,,Active
+E0000009,Mary,Darlene,Weiss,Female,Nelsonberg,1966-03-09,2024-09-18,,Active
+E0000010,Tyler,,Wade,Female,Cranetown,2001-03-04,2025-01-12,,Active
+E0000011,Jasmine,,Brown,Male,West Monica,1964-09-30,2023-03-09,,Inactive
+E0000012,Melinda,,Brown,Male,Levyside,1991-05-07,2024-04-20,,Active
+E0000013,Erika,,Phillips,Female,Port Timothyfort,1965-04-11,2021-07-07,,Active
+E0000014,Janet,Bailey,Long,Male,Port Jacob,2002-12-06,2023-06-04,,Active
+E0000015,Ross,,Galvan,Male,Rodriguezfurt,1987-02-16,2021-06-26,,Active
+E0000016,John,,Gonzalez,Female,East Courtney,1971-08-31,2025-01-20,,Active
+E0000017,Emily,,Sanchez,Female,Port Jermainemouth,1974-01-01,2022-11-30,,Inactive
+E0000018,Michael,,Pearson,Male,West Tiffany,1992-09-29,2021-05-27,,Active
+E0000019,Deanna,,Martin,Female,Edwinville,1998-02-21,2021-08-05,,Active
+E0000020,Tracy,,Snyder,Male,Huynhfurt,1970-01-12,2024-12-23,,Active
+E0000021,Derek,Mary,Smith,Female,Port Matthew,1990-10-22,2025-03-03,,Active
+E0000022,Deborah,Shawn,Parsons,Female,Johnside,2007-03-04,2024-10-05,2025-01-11,Inactive
+E0000023,Ryan,,Mendoza,Female,North Ernest,1965-06-26,2022-04-25,,Active
+E0000024,Briana,,Hall,Male,Annabury,1983-03-29,2022-08-18,,Active
+E0000025,Teresa,Samuel,Martinez,Female,East Rebecca,1997-09-03,2023-03-05,,Inactive
+E0000026,Karen,Erin,Roberts,Male,North Jane,1980-04-19,2021-07-28,,Inactive
+E0000027,Kathy,,Patterson,Female,Tylerville,1994-11-10,2023-03-18,,Active
+E0000028,Jessica,Kim,Williams,Female,Lake John,1988-05-10,2022-05-14,,Active
+E0000029,Jennifer,,Munoz,Female,North Catherine,2002-01-07,2025-03-04,,Active
+E0000030,Michael,,Contreras,Female,North Emily,1966-01-31,2021-07-29,,Active
+E0000031,Edward,,Benson,Female,East Karenshire,2004-02-17,2022-06-03,,Active
+E0000032,Joanna,,Phelps,Male,West Charlesport,1973-10-24,2024-03-13,,Active
+E0000033,Kaitlyn,,Paul,Male,New Caitlinburgh,1997-06-13,2022-01-18,,Inactive
+E0000034,Jennifer,,Long,Female,West Patrick,2000-04-03,2023-06-03,,Active
+E0000035,Brian,William,Cameron,Male,West Andrew,1975-05-06,2024-12-13,,Active
+E0000036,Jody,,Bailey,Female,Paceville,1975-02-02,2025-01-12,,Active
+E0000037,Melissa,,Jacobs,Male,Port Michelleville,1995-02-13,2022-10-30,,Active
+E0000038,Mark,,Holloway,Male,Sandershaven,1994-04-15,2023-08-24,,Active
+E0000039,Sean,,Shields,Male,Rossland,1988-09-22,2022-12-22,,Active
+E0000040,Kristopher,,Taylor,Male,New Andrea,1994-11-03,2024-10-14,,Active
+E0000041,Monique,,Martinez,Male,New Melissabury,1979-11-10,2022-10-26,,Active
+E0000042,Brandon,,Olsen,Female,East Jennaborough,1995-07-25,2022-09-18,,Active
+E0000043,Christopher,Lori,Lee,Male,South Mariamouth,1990-11-18,2023-06-17,2024-03-10,Inactive
+E0000044,Derrick,,Fox,Female,North Richardfurt,1972-09-12,2023-02-12,,Active
+E0000045,Mallory,Charles,Wallace,Male,Michellestad,1965-04-16,2023-12-16,2024-03-11,Inactive
+E0000046,Kenneth,,White,Male,Amandastad,1986-09-10,2022-03-14,,Active
+E0000047,Travis,,Carter,Female,Youngville,1986-07-08,2021-01-04,2022-01-02,Inactive
+E0000048,David,,Castro,Male,West Jenniferhaven,2004-11-24,2023-02-18,,Inactive
+E0000049,Aaron,,Morales,Female,North Kelly,1986-02-25,2021-10-20,,Active
+E0000050,Cynthia,Christina,Benjamin,Female,Antoniofort,1977-11-17,2024-06-13,,Active
+E0000051,Sandra,,Chapman,Female,West Megan,1980-05-30,2024-08-01,,Active
+E0000052,Stephanie,Juan,Mccormick,Male,Vincentbury,1982-04-13,2021-04-28,,Active
+E0000053,Joseph,,Schwartz,Female,South Natalie,2004-07-04,2024-03-14,,Active
+E0000054,Daniel,Sara,Wiggins,Male,Susanburgh,1973-03-30,2025-01-11,,Active
+E0000055,Stephanie,Tyler,Gomez,Female,Reginaton,1996-07-18,2023-03-16,,Active
+E0000056,Pamela,Jacob,Sanchez,Male,East Theresaburgh,1994-03-03,2021-08-23,,Active
+E0000057,Vanessa,,Bowman,Female,Garciashire,2002-03-25,2021-11-16,,Inactive
+E0000058,Karen,,Walker,Female,West Brandonland,2002-12-02,2021-06-17,,Inactive
+E0000059,Cassandra,,Johnson,Male,Williamberg,2003-02-11,2021-08-17,,Active
+E0000060,Krystal,,Davis,Male,South Bryan,2005-09-04,2022-02-18,,Inactive
+E0000061,Jason,,Lewis,Male,Isaacfort,1998-12-28,2024-04-08,,Active
+E0000062,Frederick,,Mendoza,Female,South James,1973-03-09,2024-08-03,2024-11-22,Inactive
+E0000063,Deanna,,Carey,Male,Foxfurt,1995-10-02,2023-04-17,,Inactive
+E0000064,Vanessa,Mike,Lawrence,Male,West William,1989-02-16,2023-12-20,,Active
+E0000065,Nicholas,,Schultz,Female,West Elizabethstad,2003-12-17,2023-12-27,,Inactive
+E0000066,Monique,,Ward,Male,Zavalaton,1977-11-18,2022-01-27,,Inactive
+E0000067,Michele,Kimberly,Oneal,Male,Jonestown,1992-09-27,2023-07-11,,Active
+E0000068,Kimberly,,Nelson,Male,East Davidfurt,1993-03-24,2021-12-27,,Active
+E0000069,Mary,,Johnston,Female,Shannonport,1981-05-05,2021-12-19,,Inactive
+E0000070,Eddie,,Chambers,Male,South Jefferyfort,1982-08-07,2024-10-19,,Active
+E0000071,Rebecca,,Bowers,Female,Michaelfort,1968-07-17,2022-07-10,,Inactive
+E0000072,Evelyn,,Conley,Male,North Jody,1970-09-08,2022-01-25,,Active
+E0000073,Thomas,,Lopez,Male,Lake Danaburgh,1965-12-26,2021-12-22,,Active
+E0000074,Miguel,,Marquez,Female,Knoxside,1972-03-04,2023-05-25,,Active
+E0000075,Jose,,Elliott,Male,West Ericland,2002-04-25,2021-03-09,,Active
+E0000076,Amanda,,Mccall,Male,South Jessicastad,1995-01-08,2023-07-04,,Active
+E0000077,Michelle,,Johnson,Male,New Erin,1998-07-14,2023-08-11,,Active
+E0000078,Eric,,Hunter,Female,South Keithmouth,1968-02-17,2021-08-24,,Active
+E0000079,Patrick,,Zhang,Female,Cruzchester,1967-10-16,2021-09-28,,Active
+E0000080,Andrea,,Collins,Female,Lake Alyssa,1992-05-06,2023-12-10,,Active
+E0000081,Joanne,,Walker,Male,South Kayla,1979-10-07,2024-11-06,,Active
+E0000082,Sharon,Annette,Bruce,Female,East Jonathan,1985-03-06,2021-08-27,,Active
+E0000083,Thomas,,Meyers,Female,Port Holly,1991-10-01,2024-09-18,,Active
+E0000084,Molly,Nancy,Foster,Female,West Autumn,1997-01-18,2025-02-08,,Active
+E0000085,Katherine,Kristine,Baker,Male,Jonesside,1985-10-12,2021-03-19,,Active
+E0000086,Paul,,Harris,Male,Taylorfort,1991-03-05,2022-10-28,,Inactive
+E0000087,Richard,,Dixon,Female,Jamesbury,1974-11-23,2022-03-27,,Active
+E0000088,Jennifer,,Hernandez,Male,Melissaburgh,1979-07-27,2024-11-12,,Active
+E0000089,Katie,John,Davis,Female,Smithside,1975-11-24,2023-10-01,,Inactive
+E0000090,Melissa,,Watkins,Male,East Andrea,2003-08-07,2021-09-10,,Active
+E0000091,Joseph,,Johnson,Male,Hammondshire,1977-09-26,2022-01-03,,Inactive
+E0000092,Joseph,Denise,Coleman,Male,New Teresa,1996-10-29,2021-11-28,,Active
+E0000093,Todd,,Hardy,Male,Jesusfurt,1971-06-17,2024-11-08,,Active
+E0000094,Candice,Alison,Miller,Male,Dariusberg,1977-08-16,2025-03-02,,Active
+E0000095,Jonathan,,Anderson,Female,West Coreybury,1976-11-24,2021-01-06,,Inactive
+E0000096,Lynn,Jeremy,Robinson,Male,Jonesport,2005-04-19,2023-12-03,,Active
+E0000097,Jacqueline,Kristy,Brown,Male,Elizabethton,2005-03-26,2022-03-11,,Active
+E0000098,Amy,,Stevens,Female,New Jose,2001-10-26,2023-09-23,,Active
+E0000099,Thomas,Megan,Howe,Female,Port Heatherberg,1999-08-07,2021-09-20,,Active
+E0000100,Sara,Joanne,Cortez,Male,Santosmouth,1992-11-17,2024-05-16,,Active
