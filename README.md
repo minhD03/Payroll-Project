@@ -7,7 +7,7 @@ This project generates mock payroll-related datasets for a multi-industry Austra
 ## Project Overview
 
 ### Dashboard Preview Screenshot:
-These are my dashboard screenshot. Further Report can be view in here: [Report Link](https://github.com/minhD03/Payroll-Project/blob/9531a8b92243f0e47f6c6749846aaf5dfaa170df/Payroll%20Report-%20Nhat%20Minh%20Dang.pdf)
+These are my dashboard screenshots. Further Report can be view in here: [Report Link](https://github.com/minhD03/Payroll-Project/blob/9531a8b92243f0e47f6c6749846aaf5dfaa170df/Payroll%20Report-%20Nhat%20Minh%20Dang.pdf)
 
 ![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%201.png)
 
@@ -111,5 +111,6 @@ Verify the generated files to ensure all datasets adhere to the predefined rules
 
 ---
 #
+
 
 
