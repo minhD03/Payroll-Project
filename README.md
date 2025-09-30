@@ -6,6 +6,12 @@ This project generates mock payroll-related datasets for a multi-industry Austra
 
 ## Project Overview
 
+### Dashboard Preview Screenshot:
+
+![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%201.png)
+
+![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%202.png)
+
 ### Files contained:
 
 1. **`utils.py`**
@@ -86,3 +92,4 @@ Verify the generated files to ensure all datasets adhere to the predefined rules
 
 ---
 #
+
