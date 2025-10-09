@@ -1,20 +1,9 @@
-
+# Payroll Project
+This project is a system that helps businesses in tracking the Payroll system. The SQL script transforms raw data into datasets with appropriate format and no conflictions when reading. Then, I used Power BI Dashboard to visualize and draw meaningful insights. These findings will determine actions to either embracing it or reduce it.
 
 ---
 
-## Project Overview
-
-### Dashboard Preview Screenshot:
-These are my dashboard screenshots. Further Report can be view in here: [Report Link](https://github.com/minhD03/Payroll-Project/blob/9531a8b92243f0e47f6c6749846aaf5dfaa170df/Payroll%20Report-%20Nhat%20Minh%20Dang.pdf)
-
-![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%201.png)
-
-![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%202.png)
----
-
-
-
-## About Generated Dataset:
+## About Dataset:
 
 The datasets includes 14 files that are in .csv format:
 - **Allowance**: Extra payments made to employees within specific periods. There are
@@ -30,6 +19,22 @@ active status, pay rate, etc.
 - **Employee details**: List of employees along with their personal information.
 - **Employee leaves**: List of leaves recorded.
 - **Junior pay rates**: Wages for employees within specific age group.
+
+## Project Overview
+
+### Dashboard Preview Screenshot:
+These are my dashboard screenshots. Further Report can be view in here: [Report Link](https://github.com/minhD03/Payroll-Project/blob/9531a8b92243f0e47f6c6749846aaf5dfaa170df/Payroll%20Report-%20Nhat%20Minh%20Dang.pdf)
+
+![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%201.png)
+
+![alt text](https://github.com/minhD03/Payroll-Project/blob/34def8fb7416c1a571bd876d1d7e0f672d19944f/Images/Dashboard%202.png)
+---
+
+## Data Transformation Process:
+
+
+
+
 
 
 
