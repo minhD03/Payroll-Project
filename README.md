@@ -42,6 +42,117 @@ After importing datasets into SQL Server, I divided the tables into **Dimension 
 
 In the SQL script, I started by transforming raw landing data into clean, structured staging tables, selecting key columns across HR, payroll and roster files. Then, I standardized formats, renamed fields and mapped identifiers like employee_code to employee_id. In addition, in the marts layer, I built dimension tables by hashing keys (e.g., employee_pk, contract_pk), converting percentages to multipliers and aggregating pay periods. For fact tables, I joined staging data with dimensions using surrogate keys and date logic, ensuring each record was contextualized by contract, employee and pay period. This layered approach supports robust analytics and executive reporting.
 
+## Dashboard Relationships:
+When creating Power Bi Dashboard, these are the relationships that I connected:
+
+
+
+# Insights gained:
+## 🧑‍💼 Employee Type & Job Title Distribution
+
+- **Employment type balance**: Part-time, Full-time and Casual employees each represent ~33%.
+  - ✅ **Positive Insight**: Risk exposure is evenly distributed across contract types.
+  - 💡 **Recommendation**: Maintain this equilibrium to support operational flexibility and workforce resilience.
+
+- **Job title concentration**: IT Support Specialist, Security Guard and Software Developer collectively account for 19% of roles.
+  - ⚠️ **Risk Indicator**: These roles are payroll-sensitive due to their high representation.
+  - 🛠 **Action**: Prioritize payroll audits and contract reviews for these positions to mitigate systemic mismatches.
+
+---
+
+## 📊 Contract Status & Payroll Risk
+
+- **Active contracts dominate**: 70% active, 24% expired, and 6% terminated.
+  - ✅ **Positive Insight**: Reflects strong employee retention and effective HR policies.
+  - ⚠️ **Risk Indicator**: Expired and terminated contracts may contribute to payroll discrepancies.
+  - 🛠 **Action**: Implement automated alerts for contract expirations and reinforce offboarding protocols.
+
+- **Payroll discrepancy**: $5.39M in overpayments vs $34.8K in underpayments.
+  - ❌ **Negative Insight**: Overpayments represent a significant financial exposure.
+  - 🛠 **Action**: Enforce stricter payroll validation, conduct periodic audits and deploy anomaly detection mechanisms.
+
+---
+
+## 📈 Payroll Trend Analysis (2021–Apr 2025)
+
+- **Post-COVID recovery**: Paid amounts surged post-June 2024, while Mandatory amounts rose modestly.
+  - ⚠️ **Risk Indicator**: Disproportionate growth suggests inefficiencies or inflated compensation.
+  - 🛠 **Action**: Align paid amounts with mandatory benchmarks and consider performance-based compensation adjustments.
+
+- **2022–2024 fluctuations**: Paid amounts ranged from 0.06M–0.08M; Mandatory amounts from 0.04M–0.05M.
+  - 📉 **Cause**: COVID-related disruptions impacted workforce stability and budgeting.
+  - 💡 **Recommendation**: Use this period as a baseline for resilience modeling and payroll elasticity planning.
+
+---
+
+## 📃 Contract Type Breakdown
+
+- **Casual contracts dominate**: 50k vs 20k for full-time roles.
+  - ⚠️ **Risk Indicator**: Heavy reliance on casual staff may lead to performance volatility.
+  - 🛠 **Action**: Diversify workforce strategy and invest in full-time talent pipelines to stabilize operations.
+
+- **Full-time demand post-2025**: Paid amounts for full-time roles increased significantly.
+  - ✅ **Positive Insight**: Indicates strategic hiring aligned with peak operational periods.
+  - 💡 **Recommendation**: Continue leveraging full-time roles for core functions and scale with part-time/casual staff as needed.
+
+---
+
+## 🧑‍💻 Role-Specific Insights
+
+- **IT Support Specialist**:
+  - Predominantly filled by part-time and casual contracts.
+  - Demand growth observed only from 2025 onward.
+  - ⚠️ **Risk Indicator**: Suggests short-term demand; not a strategic long-term role.
+  - 🛠 **Action**: Consider outsourcing or flexible staffing models to manage this function efficiently.
+
+- **Software Developer**:
+  - Casual contracts represent nearly half of the workforce in this role.
+  - Paid and mandatory amounts are significantly higher than IT Support.
+  - ✅ **Positive Insight**: High value contribution despite short-term contracts.
+  - 💡 **Recommendation**: Adopt hybrid staffing models — retain core developers full-time and supplement with contractors during high-demand cycles.
+
+---
+
+## 🧑‍💼 Administrative Assistant Role
+
+- **Full-time dominance** with minimal fluctuation in payroll metrics.
+  - ✅ **Positive Insight**: Indicates operational stability and high dependency.
+  - 💡 **Recommendation**: Treat Administrative Assistants as strategic assets. Invest in retention programs, career development and performance-based incentives.
+  - 🛠 **Action**: Prioritize this role in workforce planning to ensure continuity and reduce operational risk.
+
+---
+
+## 👥 Employee-Level Analysis
+
+- **Company-wide hours**: ~30k overtime vs 2.26k undertime over 5 years.
+  - ✅ **Positive Insight**: High demand met with generous rewards — nearly 1M bonus cards and 26.5k allowance cards.
+  - 💡 **Recommendation**: Maintain balance between workload and incentives to support employee well-being.
+
+- **2025 peak**: Overtime demand spiked to 390 hours in the first four months.
+  - ⚠️ **Risk Indicator**: Potential burnout or staffing gaps during peak periods.
+  - 🛠 **Action**: Forecast peak seasons and proactively scale staffing or implement flexible scheduling.
+
+---
+
+## 🧑‍💼 Individual Employee Insights Examples
+
+- **Aaron Morales**:
+  - Overtime: 20–40 hours; Undertime: 1–3 hours; Regular leave every 2–3 months.
+  - ✅ **Positive Insight**: Balanced workload and personal life; consistent contributor.
+  - 💡 **Recommendation**: Use Aaron’s profile as a benchmark for sustainable employee engagement.
+
+- **Rober**:
+  - Overtime: 84 hours; Undertime: 22 hours; Larger gap between overtime and undertime.
+  - ⚠️ **Risk Indicator**: May reflect underutilization or role misalignment.
+  - 🛠 **Action**: Reassess role expectations and redistribute tasks to optimize productivity.
+
+- **Eric (minor position)**:
+  - Overtime: ~740 hours; Undertime: 0; Only 2 leave events in 5 years.
+  - ❌ **Negative Insight**: High workload with minimal rest — risk of burnout or disengagement.
+  - 🛠 **Action**: Recognize and reward high-effort employees. Introduce wellness checks, mandatory leave cycles and mental health support.
+
+
+
 
 
 
