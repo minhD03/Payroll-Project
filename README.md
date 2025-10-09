@@ -44,8 +44,24 @@ In the SQL script, I started by transforming raw landing data into clean, struct
 
 ## Dashboard Relationships:
 When creating Power Bi Dashboard, these are the relationships that I connected:
-
-
+| From Table (Column)                  | Relationship Type | To Table (Column)                     |
+|-------------------------------------|-------------------|---------------------------------------|
+| `dim_date(date_pk)`  | One to Many   |  `fact_allowances (allowance_start_date_fk)`    |
+| `dim_employees(employee_pk)`     | One to Many     |    `fact_allowances(employee_fk)`    | 
+| `dim_pay_period(pay_period_pk)`| One to Many      | `fact_allowances(pay_period_fk)`         | 
+| `dim_date(date_pk)`| One to Many      | `fact_bonuses(bonus_date_fk)`         | 
+| `dim_eployees(employee_pk)`      | One to Many     | `fact_bonuses(employee_fk)`      | 
+| `dim_pay_period(pay_period_pk)`| One to Many      | `fact_bonuses(pay_period_fk)`         | 
+|`dim_employees(employee_pk)`  | One to Many      |      `fact_employee_leaves(employee_fk)`   | 
+|  `dim_pay_period(pay_period_pk)` | One to Many      |   `fact_employee_leaves(pay_period_fk)`     | 
+| `dim_employees(employee_pk)`     | One to Many     |    `fact_roster(employee_fk)`    | 
+|  `dim_pay_period(pay_period_pk)` | One to Many      |   `fact_roster(pay_period_fk)`     | 
+| `dim_date(date_pk)`  | One to Many   |  `fact_roster(work_date_fk)`    |
+| `dim_employees(employee_pk)`     | One to Many     |    `fact_timesheet(employee_fk)`    | 
+| `dim_pay_period(pay_period_pk)`| One to Many      | `fact_timesheet(pay_period_fk)`         | 
+| `dim_contract(contract_pk)`| One to Many      | `fact_timesheet(contract_fk)`         |
+| `dim_date(date_pk)`| One to Many      | `fact_timehseet(timesheet)_transition_date_fk)`         | 
+| `dim_date(date_pk)`| One to Many      | `fact_employee_leaves(leave_start_date_fk)`          | 
 
 # Insights gained:
 ## 🧑‍💼 Employee Type & Job Title Distribution
@@ -150,6 +166,7 @@ When creating Power Bi Dashboard, these are the relationships that I connected:
   - Overtime: ~740 hours; Undertime: 0; Only 2 leave events in 5 years.
   - ❌ **Negative Insight**: High workload with minimal rest — risk of burnout or disengagement.
   - 🛠 **Action**: Recognize and reward high-effort employees. Introduce wellness checks, mandatory leave cycles and mental health support.
+
 
 
 
