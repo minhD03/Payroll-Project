@@ -1,5 +1,6 @@
 # Payroll Project
 This project is a system that helps businesses in tracking the Payroll system. The SQL script transforms raw data into datasets with appropriate format and no conflictions when reading. Then, I used Power BI Dashboard to visualize and draw meaningful insights. These findings will determine actions to either embracing it or reduce it.
+For Dataset Generator: [Link](https://github.com/minhD03/Payroll-Dataset-Generator.git)
 
 ---
 
@@ -166,6 +167,7 @@ When creating Power Bi Dashboard, these are the relationships that I connected:
   - Overtime: ~740 hours; Undertime: 0; Only 2 leave events in 5 years.
   - ❌ **Negative Insight**: High workload with minimal rest — risk of burnout or disengagement.
   - 🛠 **Action**: Recognize and reward high-effort employees. Introduce wellness checks, mandatory leave cycles and mental health support.
+
 
 
 
